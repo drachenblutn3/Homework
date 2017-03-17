@@ -1,4 +1,6 @@
-…or create a new repository on the command line
+How to Git.
+
+Create a new repository on the command line
 
 echo "# Homework" >> README.md
 git init
